@@ -1,0 +1,35 @@
+# Git
+
+Conceitos Básicos:
+
+. Git é encriptado (SHA1)
+
+---
+
+**COMANDOS CLI**
+
+| Geral | cls (clear screen) |
+| --- | --- |
+| Mudar de pastas | cd (change directory)
+. Exemplo: cd Windows
+. Dois pontos (..) depois de cd retrocede na árvore de diretórios. |
+| Listar pastas | dir (lista diretórios do sistema) |
+| Criar pastas/arquivos | mkdir (make directory) |
+| Deletar pastas/arquivos | . del (para arquivos)
+. rmdir (remove directory) |
+
+---
+
+**GIT COMANDOS**
+
+| Para ver a versão do GIT | git—version
+Se der erro ele não está instalado corretamente. |
+| --- | --- |
+| Iniciar | git init
+Certifique-se de estar na pasta certa do projeto que vc quer lidar |
+| Adicionar um arquivo da pasta para o repostiório via gitbash | git add . ou git -A |
+| Ver SHA1 |  | Ver SHA1 do arquivo
+
+- ReadMe:
+
+[READme (1)](https://www.notion.so/READme-1-343ea7d8aeac4f9fa8e67d89873fc056)
